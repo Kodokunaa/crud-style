@@ -1,0 +1,8 @@
+[
+  { "id": "sample-1", "title": "Build a React CRUD application", "subject": "Event-Driven Programming", "deadline": "2026-10-08", "priority": "High", "completed": false, "notes": "Use a parent and two child components, useState, useEffect, and props." },
+  { "id": "sample-2", "title": "Design an entity relationship diagram", "subject": "Database Management", "deadline": "2026-10-06", "priority": "Medium", "completed": false, "notes": "Include primary keys, foreign keys, and relationships." },
+  { "id": "sample-3", "title": "Write a reflection on digital citizenship", "subject": "Ethics", "deadline": "2026-10-12", "priority": "Low", "completed": false, "notes": "A short reflection with examples from everyday life." },
+  { "id": "sample-4", "title": "Submit wireframes for the final project", "subject": "Human-Computer Interaction", "deadline": "2026-09-29", "priority": "High", "completed": false, "notes": "Prepare desktop and mobile layouts." },
+  { "id": "sample-5", "title": "Practice array methods", "subject": "Event-Driven Programming", "deadline": "2026-09-30", "priority": "Medium", "completed": true, "notes": "Complete exercises using map, filter, and find." },
+  { "id": "sample-6", "title": "Prepare a network topology diagram", "subject": "Computer Networks", "deadline": "2026-10-15", "priority": "Medium", "completed": false, "notes": "Label each device and connection." }
+]
